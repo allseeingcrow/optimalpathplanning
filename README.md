@@ -1,1 +1,2 @@
 # optimalpathplanning
+This is a repository that contains the pdf to my report on optimal path planning for autonomous vehicles based on the level set distance formulation. It contains details on finding the optimal trajectory based ont he HJB equation using the generalized Hopf-Lax formulas for the navigation problem in the face of stationary and moving obstacles as well as a formulation for multiple agents.
